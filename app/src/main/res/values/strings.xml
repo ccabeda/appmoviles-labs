@@ -4,4 +4,11 @@
     <string name="dato_con_comida">%1$s\nMi comida favorita es %2$s</string>
     <string name="saludo_formal">Hola, soy %1$s</string>
     <string name="saludo_informal">¡Buenas! Acá %1$s</string>
+    <string name="btn_ir_segunda">Ir a la sala de experimentos</string>
+    <string name="saludo_segunda">Sala de experimentos de %1$s</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="hint_notas">Notas del experimento…</string>
+    <string name="btn_compartir">Compartir mi perfil</string>
+    <string name="perfil_para_compartir">Soy %1$s. %2$s</string>
+    <string name="elegir_app">Compartir perfil con</string>
 </resources>
