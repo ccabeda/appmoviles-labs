@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaYo</string>
+    <string name="btn_saludar">Saludar distinto</string>
+    <string name="dato_con_comida">%1$s\nMi comida favorita es %2$s</string>
+    <string name="saludo_formal">Hola, soy %1$s</string>
+    <string name="saludo_informal">¡Buenas! Acá %1$s</string>
+</resources>
