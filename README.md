@@ -30,5 +30,3 @@ Kotlin, Android Views (XML), Android Studio y Gradle. La versión mínima de And
 - `app/src/main/java/com/example/holayo/SegundaActivity.kt`: segunda pantalla, contador y ciclo de vida.
 - `app/src/main/res/layout/`: diseños de ambas pantallas.
 - `app/src/main/res/values/strings.xml`: textos de la aplicación.
-
-Este repositorio contiene el proyecto fuente. El APK generado no es necesario para abrirlo y compilarlo en Android Studio.
